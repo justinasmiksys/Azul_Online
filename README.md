@@ -1,5 +1,7 @@
 Rules of the game: https://youtu.be/dXuucWGrFMQ
 
+DEMO: https://www.youtube.com/watch?v=vRJDyXtK1jI
+
 This is a board game, which can be played by 3 people on the local network.
 
 CONTENTS:
